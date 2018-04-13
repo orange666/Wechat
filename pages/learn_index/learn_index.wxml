@@ -1,0 +1,2 @@
+<button bindtap='study_click'>学习</button>
+<button bindtap='review_click'>复习</button>

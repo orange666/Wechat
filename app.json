@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/learn_index/learn_index",
+    "pages/setting/setting",
+    "pages/study/study",
+    "pages/review/review"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#111111",
+    "navigationBarTextStyle": "light",
+    "navigationBarTitleText": "单词",
+    "backgroundTextStyle": "black",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "记录"
+      },
+      {
+        "pagePath": "pages/learn_index/learn_index",
+        "text": "单词学习"
+      },
+      {
+        "pagePath": "pages/setting/setting",
+        "text": "设置"
+      }
+    ]
+  }
+}
